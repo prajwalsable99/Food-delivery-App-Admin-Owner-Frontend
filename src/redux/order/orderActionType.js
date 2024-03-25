@@ -1,0 +1,2 @@
+export const GET_ALL_ORDERS="GET_ALL_ORDERS";
+export const UPDATE_ORDER="UPDATE_ORDER";
